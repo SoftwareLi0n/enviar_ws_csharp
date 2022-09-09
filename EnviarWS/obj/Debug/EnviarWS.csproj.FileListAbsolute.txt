@@ -1,0 +1,15 @@
+D:\Software Angels\Proyectos Youtube\Enviar Mensajes WS\EnviarWS\EnviarWS\bin\Debug\EnviarWS.exe.config
+D:\Software Angels\Proyectos Youtube\Enviar Mensajes WS\EnviarWS\EnviarWS\bin\Debug\EnviarWS.exe
+D:\Software Angels\Proyectos Youtube\Enviar Mensajes WS\EnviarWS\EnviarWS\bin\Debug\EnviarWS.pdb
+D:\Software Angels\Proyectos Youtube\Enviar Mensajes WS\EnviarWS\EnviarWS\obj\Debug\EnviarWS.csproj.AssemblyReference.cache
+D:\Software Angels\Proyectos Youtube\Enviar Mensajes WS\EnviarWS\EnviarWS\obj\Debug\EnviarWS.Form1.resources
+D:\Software Angels\Proyectos Youtube\Enviar Mensajes WS\EnviarWS\EnviarWS\obj\Debug\EnviarWS.Properties.Resources.resources
+D:\Software Angels\Proyectos Youtube\Enviar Mensajes WS\EnviarWS\EnviarWS\obj\Debug\EnviarWS.csproj.GenerateResource.cache
+D:\Software Angels\Proyectos Youtube\Enviar Mensajes WS\EnviarWS\EnviarWS\obj\Debug\EnviarWS.csproj.CoreCompileInputs.cache
+D:\Software Angels\Proyectos Youtube\Enviar Mensajes WS\EnviarWS\EnviarWS\obj\Debug\EnviarWS.exe
+D:\Software Angels\Proyectos Youtube\Enviar Mensajes WS\EnviarWS\EnviarWS\obj\Debug\EnviarWS.pdb
+D:\Software Angels\Proyectos Youtube\Enviar Mensajes WS\EnviarWS\EnviarWS\bin\Debug\Newtonsoft.Json.dll
+D:\Software Angels\Proyectos Youtube\Enviar Mensajes WS\EnviarWS\EnviarWS\bin\Debug\RestSharp.dll
+D:\Software Angels\Proyectos Youtube\Enviar Mensajes WS\EnviarWS\EnviarWS\bin\Debug\Newtonsoft.Json.xml
+D:\Software Angels\Proyectos Youtube\Enviar Mensajes WS\EnviarWS\EnviarWS\bin\Debug\RestSharp.xml
+D:\Software Angels\Proyectos Youtube\Enviar Mensajes WS\EnviarWS\EnviarWS\obj\Debug\EnviarWS.csproj.CopyComplete
