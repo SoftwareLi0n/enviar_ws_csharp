@@ -22,6 +22,8 @@ namespace EnviarWS
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //Jesús is love
+
             string url = "https://graph.facebook.com/aqui_va_la_version_api/aqui_va_el_id_telefono/messages";
             string token = "Bearer aqui_va_tu_token";
 
